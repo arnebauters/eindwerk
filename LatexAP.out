@@ -1,0 +1,42 @@
+\BOOKMARK [1][-]{section.1}{Intro}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Assignment}{section.1}% 2
+\BOOKMARK [3][-]{subsubsection.1.1.1}{Original assignment}{subsection.1.1}% 3
+\BOOKMARK [3][-]{subsubsection.1.1.2}{Concrete guidelines}{subsection.1.1}% 4
+\BOOKMARK [1][-]{section.2}{Pre-setup Research}{}% 5
+\BOOKMARK [2][-]{subsection.2.1}{VIRL via DevNet}{section.2}% 6
+\BOOKMARK [2][-]{subsection.2.2}{Alternatives to VIRL}{section.2}% 7
+\BOOKMARK [3][-]{subsubsection.2.2.1}{dCloud}{subsection.2.2}% 8
+\BOOKMARK [3][-]{subsubsection.2.2.2}{GNS3}{subsection.2.2}% 9
+\BOOKMARK [1][-]{section.3}{VIRL Web interface user guide}{}% 10
+\BOOKMARK [2][-]{subsection.3.1}{Cisco DevNet specific instructions}{section.3}% 11
+\BOOKMARK [3][-]{subsubsection.3.1.1}{Cisco DevNet Webservice}{subsection.3.1}% 12
+\BOOKMARK [3][-]{subsubsection.3.1.2}{Login to Devnet}{subsection.3.1}% 13
+\BOOKMARK [3][-]{subsubsection.3.1.3}{The Devnet sandbox labs}{subsection.3.1}% 14
+\BOOKMARK [3][-]{subsubsection.3.1.4}{Reserving resources}{subsection.3.1}% 15
+\BOOKMARK [3][-]{subsubsection.3.1.5}{Mails after reservation}{subsection.3.1}% 16
+\BOOKMARK [2][-]{subsection.3.2}{The Web Interface}{section.3}% 17
+\BOOKMARK [3][-]{subsubsection.3.2.1}{Overview}{subsection.3.2}% 18
+\BOOKMARK [3][-]{subsubsection.3.2.2}{Make a simulation}{subsection.3.2}% 19
+\BOOKMARK [3][-]{subsubsection.3.2.3}{The VIRL editor}{subsection.3.2}% 20
+\BOOKMARK [3][-]{subsubsection.3.2.4}{Autonetkit ANK}{subsection.3.2}% 21
+\BOOKMARK [3][-]{subsubsection.3.2.5}{The Simulation}{subsection.3.2}% 22
+\BOOKMARK [3][-]{subsubsection.3.2.6}{Save the original .virl file as well as the configured one}{subsection.3.2}% 23
+\BOOKMARK [3][-]{subsubsection.3.2.7}{Adding a git repository}{subsection.3.2}% 24
+\BOOKMARK [3][-]{subsubsection.3.2.8}{Adding images}{subsection.3.2}% 25
+\BOOKMARK [3][-]{subsubsection.3.2.9}{Interconnecting VIRL simulations and connecting to external networks}{subsection.3.2}% 26
+\BOOKMARK [1][-]{section.4}{Our test setup}{}% 27
+\BOOKMARK [2][-]{subsection.4.1}{Installation Guide}{section.4}% 28
+\BOOKMARK [3][-]{subsubsection.4.1.1}{VIRL}{subsection.4.1}% 29
+\BOOKMARK [3][-]{subsubsection.4.1.2}{LibreNMS}{subsection.4.1}% 30
+\BOOKMARK [3][-]{subsubsection.4.1.3}{RANCID}{subsection.4.1}% 31
+\BOOKMARK [1][-]{section.5}{The UCLL core network}{}% 32
+\BOOKMARK [2][-]{subsection.5.1}{Current specific part of the core network that we virtualized}{section.5}% 33
+\BOOKMARK [2][-]{subsection.5.2}{Our implementation}{section.5}% 34
+\BOOKMARK [3][-]{subsubsection.5.2.1}{The topology}{subsection.5.2}% 35
+\BOOKMARK [3][-]{subsubsection.5.2.2}{vPC}{subsection.5.2}% 36
+\BOOKMARK [3][-]{subsubsection.5.2.3}{HSRP}{subsection.5.2}% 37
+\BOOKMARK [3][-]{subsubsection.5.2.4}{BGP}{subsection.5.2}% 38
+\BOOKMARK [3][-]{subsubsection.5.2.5}{The ASA cluster}{subsection.5.2}% 39
+\BOOKMARK [3][-]{subsubsection.5.2.6}{Vrf lite}{subsection.5.2}% 40
+\BOOKMARK [3][-]{subsubsection.5.2.7}{BFD}{subsection.5.2}% 41
+\BOOKMARK [1][-]{section.6}{Links}{}% 42
